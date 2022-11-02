@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T14:29:43.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106 (Edition std-1)" etag="F-RHjYKl_rchGwIXC1We" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T14:32:22.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106 (Edition std-1)" etag="LYq0Mjjo1tMNFZ6ZgUt3" version="20.5.1" type="github">
   <diagram id="HjytBulnDXZ1NcBucnhl" name="Página-1">
     <mxGraphModel dx="4022" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
         <mxCell id="b41iQ-4jwn6VqAKLqT5_-1" value="valor_desconto" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="59" y="881" width="109" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Mf9cWxCYDlTzHbDjlvr6-30" value="cpf_cnpj_fornecedor" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4;fillColor=#C7FFCD;" parent="1" vertex="1">
+        <mxCell id="Mf9cWxCYDlTzHbDjlvr6-30" value="cnpj_fornecedor" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4;fillColor=#C7FFCD;" parent="1" vertex="1">
           <mxGeometry x="320" y="-860" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b41iQ-4jwn6VqAKLqT5_-2" value="id_convenio" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4;fillColor=#C7FFCD;" parent="1" vertex="1">
